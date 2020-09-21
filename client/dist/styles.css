@@ -1,0 +1,38 @@
+.playerContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 75px);
+  grid-gap: 1px;
+  margin-bottom: 20px;
+}
+
+.balanceContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 75px);
+  grid-gap: 1px;
+  margin-bottom: 42px;
+}
+
+.betContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 75px);
+  grid-template-rows: repeat(3, 50px);
+  grid-gap: 1px;
+}
+
+.labels {
+  width: 12%;
+  float: left;
+}
+
+.values {
+  margin-left: 12%;
+}
+
+.labelItem {
+  margin-top: 39px;
+}
+
+#l1 {
+  margin-top: 37px;
+  margin-bottom:30px;
+}

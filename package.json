@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/eugkim1997/holdem#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
+    "pokersolver": "^2.1.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
